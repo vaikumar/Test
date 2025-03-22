@@ -3,7 +3,7 @@ import java.util.HashSet;
 public class PairSumProblem {
 
     public static void main(String[] args) {
-        int[] array = {1, 4, 45, 6, 10, 8};
+        int[] array = {1, 4, 45, 6, 10, 8, 9};
         int targetSum = 16;
 
         findPairWithSum(array, targetSum);
